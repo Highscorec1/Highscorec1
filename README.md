@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy HighscoreC1</a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://media.licdn.com/dms/image/D4E16AQFZvsTX4YDgKw/profile-displaybackgroundimage-shrink_350_1400/0/1722583465426?e=1727913600&v=beta&t=ImO3IX17z0LTN82EXkfUdvw5TCQ11eZ-RBbQo-V_u-s)">
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
